@@ -2,7 +2,7 @@
 Farming game made using Pocket Code, for Google Summer of Code! Please find the game in this folder, called "Pocket Moon v1.0.catrobat".
 
 ## Summary
-For my Google Summer of Code project with Catrobat, I created a farming game; this game was inspired by other farming games such as Stardew Valley and Harvest Moon. In the game you can design their own character and play as a farm owner, the player can explore a large world and collect and sells items that they find. You can also buy items from the shop, the shop's catalogue changes depending on the season; things you can buy include the season's plant seeds and the pickaxe tool (which can be used to unlock more areas!) As a fan of those series I really enjoyed working on this project, and even though GSoC is over, I hope to add more features to the game!
+For my Google Summer of Code project with Catrobat, I have created a farming game; this game was inspired by other farming games such as Stardew Valley and Harvest Moon. In the game you can design their own character and play as a farm owner, the player can explore a large world and collect and sells items that they find. You can also buy items from the shop, the shop's catalogue changes depending on the season; things you can buy include the season's plant seeds and the pickaxe tool (which can be used to unlock more areas!) As a fan of those series I really enjoyed working on this project, and even though GSoC is over, I hope to add more features to the game!
 
 Thanks to my mentor Jordan Smith for all the support over the last 3 months.
 
