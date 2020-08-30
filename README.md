@@ -57,4 +57,8 @@ Here are some screenshots from the game:
   <img src="Screenshots/19.png" width="480">
   <img src="Screenshots/20.png" width="480">
   <img src="Screenshots/21.png" width="480">
+  <img src="Screenshots/22.png" width="480">
+  <img src="Screenshots/23.png" width="480">
+  <img src="Screenshots/24.png" width="480">
+  <img src="Screenshots/25.png" width="480">
 </p>
